@@ -1,16 +1,11 @@
 # random_team_assembler_flutter
 
-Random team assembler for overwatch
+Application de bureau réalisée en Flutter qui permet de générer aléatoirement des roles aux joueurs sur plusieurs maps pour les matchs d'entrainement sur Overwatch à l'aide d'un fichier de config en JSON.
 
-## Getting Started
+## Pour débuter
 
-This project is a starting point for a Flutter application.
+Ce projet est un point de départ pour une application Flutter.
+Pour plus d'informations sur Flutter:
+- [Site: (https://flutter.dev/)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+La configuration de l'application se fait à partir du fichier config.json.

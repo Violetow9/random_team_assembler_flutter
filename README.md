@@ -9,3 +9,5 @@ Pour plus d'informations sur Flutter:
 - [Site: (https://flutter.dev/)
 
 La configuration de l'application se fait à partir du fichier config.json.
+
+![Screenshot](config.png)

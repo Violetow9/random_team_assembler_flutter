@@ -1,0 +1,37 @@
+{
+  "mapsCount": 5,
+  "roles": [
+    {
+      "name": "Tank",
+      "icon": "assets/images/tank.png"
+    },
+    {
+      "name": "Hitscan Dps",
+      "icon": "assets/images/dps.png"
+    },
+    {
+      "name": "Flex Dps",
+      "icon": "assets/images/dps.png"
+    },
+    {
+      "name": "Main Heal",
+      "icon": "assets/images/heal.png"
+    },
+    {
+      "name": "Flex Heal",
+      "icon": "assets/images/heal.png"
+    }
+  ],
+  "players": [
+    "Buse",
+    "Lax",
+    "Violet",
+    "Biche",
+    "Hiban",
+	"Lielos",
+	"Namegott",
+	"Nefaste",
+	"Subway",
+	"Thobbyo"
+  ]
+}

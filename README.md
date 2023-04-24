@@ -6,7 +6,7 @@ Application de bureau réalisée en Flutter qui permet de générer aléatoireme
 
 Ce projet est un point de départ pour une application Flutter.
 Pour plus d'informations sur Flutter:
-- [Site]: (https://flutter.dev/)
+- [Site: (https://flutter.dev/)]
 
 La configuration de l'application se fait à partir du fichier config.json.
 
